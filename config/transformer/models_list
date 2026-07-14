@@ -6,6 +6,8 @@ openconfig-if-ethernet.yang
 openconfig-if-ip.yang
 openconfig-interfaces-annot.yang
 openconfig-interfaces.yang
+openconfig-lldp.yang
+openconfig-lldp-annot.yang
 openconfig-mclag-annot.yang
 openconfig-mclag.yang
 openconfig-sampling-sflow-annot.yang
